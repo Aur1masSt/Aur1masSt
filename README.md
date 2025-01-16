@@ -5,9 +5,9 @@ Hi there! I'm Aurimas, a Junior Quality Assurance Engineer . My expertise spans 
 
 ## 🛠️ Skill Set
 
-* **Testing Methodologies:** Agile, Scrum, Waterfall, TDD, BDD
-* **Manual Testing:** Test planning, execution, defect tracking, exploratory testing
-* **Automation Expertise:** Selenium, Cypress, Appium
+* **Testing Methodologies:** Agile
+* **Manual Testing:** Test planning, execution, defect tracking
+* **Automation Expertise:** Selenium
 * **Programming:** Java
 * **Tools & Technologies:** Postman, Git
 
