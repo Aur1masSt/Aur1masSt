@@ -13,6 +13,6 @@ Hi there! I'm Aurimas, a Junior Quality Assurance Engineer . My expertise spans 
 
 ## 📫 Let's Connect!
 
-I'm always open to collaborating on exciting projects and exchanging ideas with fellow QA professionals. Feel free to reach out!
-
+I'm always open to collaborating on exciting projects and exchanging ideas with fellow QA professionals. Feel free to reach out!\
+stuglius@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurimas-stuglys-658481348/) 
