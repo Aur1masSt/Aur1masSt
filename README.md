@@ -11,11 +11,6 @@ Hi there! I'm Aurimas, a Junior Quality Assurance Engineer . My expertise spans 
 * **Programming:** Java
 * **Tools & Technologies:** Postman, Git
 
-## 🚀 Recent Projects
-
-* **[Project Name]:** [Brief description, highlighting your QA contributions]
-* **[Project Name]:** [Brief description, showcasing a different area of your expertise]
-
 ## 📈 GitHub Stats
 
 [Your GitHub Stats Card]
